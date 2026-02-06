@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","14. Consulta Log de Liquidación de Créditos"]],"2":[[" ","Nota",": el usuario manifiesta que esta ventana no se encuentra en uso o no tiene acceso a esta."]],"3":[[" ","Consulta Log de Liquidación de Créditos"]],"id":"65"})

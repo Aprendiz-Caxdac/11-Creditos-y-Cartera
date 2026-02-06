@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú SCORING DE AFILIADOS"]],"1":[[" ","0. Submenú SCORING DE AFILIADOS"]],"2":[[" ","Al dar clic sobre el submenú ","Scoring de Afiliados",", se despliegan los siguientes submenús:"]],"id":"10"})

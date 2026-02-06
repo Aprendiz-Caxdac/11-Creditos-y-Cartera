@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú SOLICITUD DE PRESTAMO"]],"2":[[" ","Al dar clic sobre el submenú ","Solicitud de Préstamo",", se despliegan los siguientes submenús:"]],"4":[[" ","Submenú SOLICITUD DE PRÉSTAMO"]],"id":"17"})

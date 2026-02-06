@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Menú RECUPERACIÓN DE CARTERA"]],"1":[[" ","0. Menú RECUPERACIÓN DE CARTERA"]],"2":[[" ","Al dar clic sobre el menú ","Recuperación de Cartera",", se despliegan los siguientes ","submenús",":"]],"id":"15"})

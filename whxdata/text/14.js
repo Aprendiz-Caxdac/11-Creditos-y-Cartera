@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú IMPORTACIÓN DEL CLIPPER"]],"2":[[" ","Al dar clic sobre el submenú ","Importación del Clipper",", se despliegan los siguientes submenús:"]],"4":[[" ","Submenú Importación del Clipper"]],"id":"14"})

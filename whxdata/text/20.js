@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú MOVIMIENTOS DEL TÍTULO PAGARÉ"]],"1":[[" ","0. Submenú Movimientos del Título Pagaré"]],"2":[[" ","Al dar clic sobre el submenú ","Movimientos del Título Pagaré",", se despliegan los siguientes submenús:"]],"id":"20"})

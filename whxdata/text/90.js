@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","08. Consulta del Log de Archivos Planos-Giros"]],"2":[[" ","Nota",": el usuario manifiesta que esta ventana no se encuentra en uso o no tiene acceso a esta."]],"3":[[" ","Consulta del Log de Archivos Planos-Giros"]],"id":"90"})

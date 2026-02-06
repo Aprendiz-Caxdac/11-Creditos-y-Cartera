@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","04. Tipo de Garantía"]],"2":[[" ","Nota",": no hay información por parte del usuario acerca de esta ventana."]],"3":[[" ","Tipo de Garantía"]],"id":"71"})

@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","03. Archivo Bitácora"]],"2":[[" ","Nota",": no hay información por parte del usuario acerca de esta ventana."]],"3":[[" ","Archivo Bitácora"]],"id":"74"})

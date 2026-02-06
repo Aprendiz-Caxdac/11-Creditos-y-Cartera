@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Menú CONSULTAS CRÉDITOS"]],"2":[[" ","Al dar clic sobre el menú ","Consulta Créditos",", se despliegan los siguientes ","submenús",":"]],"4":[[" ","Menú CONSULTAS CRÉDITOS"]],"id":"11"})

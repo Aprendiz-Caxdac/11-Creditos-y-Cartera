@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Menú COLOCACIÓN DE TÍTULOS"]],"2":[[" ","Al dar clic sobre el menú ","Colocación de Créditos",", se despliegan los siguientes ","submenús",":"]],"4":[[" ","Menú COLOCACIÓN DE TÍTULOS"]],"id":"13"})

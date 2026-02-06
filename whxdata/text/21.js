@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú PREPAGOS DE CRÉDITOS"]],"1":[[" ","0. Submenú PREPAGOS DE CRÉDITOS"]],"2":[[" ","Al dar clic sobre el submenú ","Prepagos de Créditos",", se despliegan los siguientes ","submenús",":"]],"id":"21"})

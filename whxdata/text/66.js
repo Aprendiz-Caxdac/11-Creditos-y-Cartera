@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","16. Tipo de Acción"]],"2":[[" ","Nota",": no hay información por parte del usuario acerca de esta ventana."]],"3":[[" ","Tipo de Acción"]],"id":"66"})

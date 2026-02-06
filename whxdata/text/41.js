@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","10. Reversar un Pago"]],"2":[[" ","Nota",": no hay información por parte del usuario acerca de esta ventana."]],"3":[[" ","Reversar un Pago"]],"id":"41"})

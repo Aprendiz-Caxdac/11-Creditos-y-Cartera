@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Submenú Lista de Chequeos"]],"2":[[" ","Al dar clic sobre el submenú ","Lista de Chequeos",", se despliegan los siguientes submenús:"]],"4":[[" ","Submenú Lista de Chequeos"]],"id":"8"})

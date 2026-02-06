@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","0. Menú TABLAS BÁSICAS"]],"2":[[" ","Al dar clic sobre el menú ","Tablas básicas",", se despliegan los siguientes ","submenús",":"]],"4":[[" ","Menú TABLAS BÁSICAS"]],"id":"22"})
